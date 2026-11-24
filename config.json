@@ -1,0 +1,6 @@
+{
+    "input_file": "input.xml",
+    "output_file": "output.xml",
+    "target_lang": "en",
+    "translate": true
+}

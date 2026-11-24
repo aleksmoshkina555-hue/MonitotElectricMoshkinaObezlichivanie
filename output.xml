@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://w3.org" xmlns:cim="http://iec.ch">
+<cim:Substation xmlns:cim="http://iec.ch" xmlns:rdf="http://w3.org" rdf:ID="_sub_001">
+    <cim:IdentifiedObject.name>ПС Персиковый-8947</cim:IdentifiedObject.name>
+    <cim:Substation.docUrl>https://anonymized-grid.local_64847</cim:Substation.docUrl>
+    <cim:Substation.wikiUrl>https://anonymized-grid.local_63778</cim:Substation.wikiUrl>
+</cim:Substation>
+
+    
+<cim:Subscriber xmlns:cim="http://iec.ch" xmlns:rdf="http://w3.org" rdf:ID="_abonent_001">
+    <cim:Person.fio>Наталья Натальяов Натальяович</cim:Person.fio>
+    <cim:Person.email>Елена Еленаов Еленаович</cim:Person.email>
+    <cim:Person.address>Петр Петров Петрович</cim:Person.address>
+    <cim:Person.phone>Дмитрий Дмитрийов Дмитрийович</cim:Person.phone>
+    <cim:Person.passport>Татьяна Татьянаов Татьянаович</cim:Person.passport>
+    <cim:Subscriber.substationName>Ольга Ольгаов Ольгаович</cim:Subscriber.substationName>
+</cim:Subscriber>
+
+    
+<cim:Company xmlns:cim="http://iec.ch" xmlns:rdf="http://w3.org" rdf:ID="_comp_001">
+    <cim:Company.name>ООО Персиковый-6393</cim:Company.name>
+    <cim:Company.inn>1852963074</cim:Company.inn>
+    <cim:Company.kpp>296307418</cim:Company.kpp>
+</cim:Company>
+
+    
+<cim:Employee xmlns:cim="http://iec.ch" xmlns:rdf="http://w3.org" rdf:ID="_emp_001">
+    <cim:Employee.fio>Анна Аннаов Аннаович</cim:Employee.fio>
+    <cim:Employee.tabNumber>Петр Петров Петрович</cim:Employee.tabNumber>
+    <cim:Employee.comment>Владимир Владимиров Владимирович</cim:Employee.comment>
+    <cim:Employee.imageAttachment>iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=</cim:Employee.imageAttachment>
+</cim:Employee>
+
+
+</rdf:RDF>

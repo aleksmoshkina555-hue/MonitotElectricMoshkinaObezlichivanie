@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://w3.org" xmlns:cim="http://iec.ch">
+
+    <cim:Substation rdf:ID="_sub_001">
+        <cim:IdentifiedObject.name>ПС Солнечная-110</cim:IdentifiedObject.name>
+        <cim:Substation.docUrl>https://energo-company.ru</cim:Substation.docUrl>
+        <cim:Substation.wikiUrl>https://wikipedia.org</cim:Substation.wikiUrl>
+    </cim:Substation>
+
+    <cim:Subscriber rdf:ID="_abonent_001">
+        <cim:Person.fio>Смирнов Алексей Викторович</cim:Person.fio>
+        <cim:Person.email>a.smirnov@mail.ru</cim:Person.email>
+        <cim:Person.address>г. Миасс, ул. Ленина, д. 42</cim:Person.address>
+        <cim:Person.phone>+7 (904) 123-45-67</cim:Person.phone>
+        <cim:Person.passport>7514 892341</cim:Person.passport>
+        <cim:Subscriber.substationName>ПС Солнечная-110</cim:Subscriber.substationName>
+    </cim:Subscriber>
+
+    <cim:Company rdf:ID="_comp_001">
+        <cim:Company.name>ООО УралСтройМонтаж</cim:Company.name>
+        <cim:Company.inn>7415098765</cim:Company.inn>
+        <cim:Company.kpp>741501001</cim:Company.kpp>
+    </cim:Company>
+
+    <cim:Employee rdf:ID="_emp_001">
+        <cim:Employee.fio>Кузнецова Елена Сергеевна</cim:Employee.fio>
+        <cim:Employee.tabNumber>004512</cim:Employee.tabNumber>
+        <cim:Employee.comment>Диспетчер звонил по номеру 89041234567 на ПС Солнечная</cim:Employee.comment>
+        <cim:Employee.imageAttachment>iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==</cim:Employee.imageAttachment>
+    </cim:Employee>
+
+</rdf:RDF>
